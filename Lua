@@ -1,4 +1,4 @@
--- da hood private silent aim
+-- Credits to Stefaunk
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Spaaarkyz/dh/main/gis.lua"))()
 Aiming.TeamCheck(false)
 
